@@ -74,7 +74,7 @@ To start the Audiobook Player, run the following command:
 python main.py
 ```
 
-Once the Audiobook Player is running, you can use the main menu to interact with the player. Use the number keys to select options, and follow the on-screen instructions. `CTR + C ` to break out of the playing loop and return to the main menu
+Once the Audiobook Player is running, you can use the main menu to interact with the player. Use the number keys to select options, and follow the on-screen instructions. `CTR + C` to break out of the playing loop and return to the main menu
 
 ### Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request. Partically anyone that wants to make a UI for this!
